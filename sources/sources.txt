@@ -1,0 +1,16 @@
+
+https://vciba.springeropen.com/articles/10.1186/s42492-019-0016-7
+https://www.intechopen.com/chapters/66464
+https://link.springer.com/article/10.1023/A:1008395514426
+https://arxiv.org/pdf/2111.11745v1.pdf
+https://arxiv.org/pdf/2111.14362.pdf
+https://www.academia.edu/96881133/Optical_Coherence_Tomography_Denoising_by_Means_of_a_Fourier_Butterworth_Filter_Based_Approach
+https://ieeexplore.ieee.org/document/9408933
+https://www.mdpi.com/2079-9292/12/20/4352/html
+file:///C:/Users/Dom/Downloads/electronics-12-04352.pdf
+https://arxiv.org/pdf/2111.14362.pdf
+https://mathematica.stackexchange.com/questions/110914/how-to-use-2d-fourier-analysis-to-clean-the-noise-in-an-image
+file:///C:/Users/Dom/Downloads/noise%20removal.pdf
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8492869
+https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ipr2.12451
+https://www.researchgate.net/publication/328374740_Four-Directional_Total_Variation_Denoising_Using_Fast_Fourier_Transform_and_ADMM
